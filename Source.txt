@@ -1,0 +1,64 @@
+pikirin teknis
+omongin ke monmon buat nyimpen texture ato gambar 360 di database buat 1 tempat
+cari cara ngehubungin database server make c#
+cari cara ngebuat scene baru terutama material load data
+imersiv analitic
+seberapakah efektif penampilan data tersebut terhadap pengguna IoT
+
+## pembuatan aplikasi
+jangan tabel dari databes tapi xml
+aplikasi ini harus di miripin AOA
+gambar, text, document, url, video.
+
+#latarbelakang
+imersif
+mempermudah peneliti melihat data dilapangan tanpa harus pergi ke tempat dan melihat kondisi ke
+solusi aplikasi ini
+
+#tinjauan pustaka
+i-surf
+visualisasi data
+imersiv analitic
+
+https://youtu.be/sKQOlqNe_WY
+https://youtu.be/8-OEpSZoiHI
+https://youtu.be/ke2VubXNjRI
+
+https://youtu.be/moDKuF5ARh0
+https://youtu.be/9KJqZBoc8m4
+https://youtu.be/SH3MjzUXhac
+
+https://youtu.be/iJ0oNYIUFJo
+https://youtu.be/LZTctk19sx8
+https://youtu.be/a27UPxbtWr0
+
+https://youtu.be/itxg1FSSfEk
+
+## tonton tentang gimana cara save data
+https://youtu.be/Y8Di-Q6qpU4
+https://youtu.be/6vl1IYMpwVQ
+
+## cari jurnal yang berhubungan dengan aplikasi ini
+tilt brush -> aplikasi gambar yang menggunakan vr
+
+## CRUD scene
+https://youtu.be/v283Kb80RjE
+https://youtu.be/i_yQHRbFBAA
+http://belajarkuuy.blogspot.com/2018/04/belajar-kuy-crud-di-c-dengan-visual.html
+https://unitycsharp.blogspot.com/2015/09/unity-c-tutorial-indonesia-basic-12.html
+https://medium.com/@rizasif92/sqlite-and-unity-how-to-do-it-right-31991712190
+https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.LoadScene.html
+https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html
+https://www.toptal.com/unity-unity3d/unity-with-mvc-how-to-level-up-your-game-development
+https://davikingcode.com/blog/retrieving-the-names-of-your-scenes-at-runtime-with-unity/
+
+## utama gimana cara vr dibuat terutama controller
+https://youtu.be/iJ0oNYIUFJo
+
+- https://gamedevelopment.tutsplus.com/id/tutorials/creating-a-vr-game-in-unity--cms-29936
+- https://learn.unity.com/tutorial/vr-best-practice#5c7f8528edbc2a002053b44f
+- https://docs.unity3d.com/Manual/VROverview.html
+- http://ijarcsse.com/Before_August_2017/docs/papers/Volume_7/4_April2017/V7I4-0162.pdf
+- https://hackernoon.com/how-to-make-a-vr-app-with-zero-experience-927438e2dede
+- https://www.raywenderlich.com/9189-htc-vive-tutorial-for-unity
+- https://medium.com/game-development-stuff/how-to-make-a-360%C2%BA-image-viewer-with-unity3d-b1aa9f99cabb
